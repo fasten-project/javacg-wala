@@ -1,4 +1,7 @@
 # WALA Plugin
+
+⚠ Archived repository: this repository is now archive. It has been superseded by [OPAL plugin located in fasten repository](https://github.com/fasten-project/fasten/tree/develop/analyzer/javacg-opal).
+
 #### This tool generates call graphs in FASTEN format using [WALA](http://wala.sourceforge.net/wiki/index.php/Main_Page) call graph generator version '1.0.0'.
 
 ## Arguments
